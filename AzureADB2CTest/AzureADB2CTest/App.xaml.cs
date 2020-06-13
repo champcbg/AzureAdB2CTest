@@ -56,22 +56,22 @@ namespace azure_ad_test
     public static class Constants
     {
         // set your tenant name, for example "contoso123tenant"
-        static readonly string tenantName = "pauper2presidenttech";
+        static readonly string tenantName = "";
 
         // set your tenant id, for example: "contoso123tenant.onmicrosoft.com"
-        static readonly string tenantId = "pauper2presidenttech.onmicrosoft.com";
+        static readonly string tenantId = "";
 
         // set your client/application id, for example: aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
-        static readonly string clientId = "1a019c0d-3ee1-442c-b19c-ecaea10f21fd";
+        static readonly string clientId = "";
 
         // set your sign up/in policy name, for example: "B2C_1_signupsignin"
-        static readonly string policySignin = "B2C_1_signupsignin";
+        static readonly string policySignin = "";
 
         // set your forgot password policy, for example: "B2C_1_passwordreset"
-        static readonly string policyPassword = "B2C_1_passwordreset";
+        static readonly string policyPassword = "";
 
         // set to a unique value for your app, such as your bundle identifier. Used on iOS to share keychain access.
-        static readonly string iosKeychainSecurityGroup = "com.pauper2presidenttech.smallstepstogreatness";
+        static readonly string iosKeychainSecurityGroup = "";
 
 
 
